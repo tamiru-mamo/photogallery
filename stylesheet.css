@@ -218,12 +218,13 @@ label{
   display:block;
 }
 
-::placeholder {
+
+[value] {
   color:#007d7b;
   background-color: #ffffff; 
 }
 
-button{
+[type="submit"]{
   display:block;
   margin: auto;
   width:50%;
