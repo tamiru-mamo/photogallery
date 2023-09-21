@@ -160,19 +160,19 @@ figure{
   display:block;
   
  }
- .container .form-header{
+.form-header{
    display: block;
    text-align: center;
    padding-top: 10px;
    
   
  }
- .container .form-header h2{
+ .form-header h2{
    font-size: 2em;
    padding-bottom: 10px;
   
  }
- .container .form-header p{
+.form-header p{
    display: inline-block;
    font-size: 1.25em;
    padding-bottom: 20px;
