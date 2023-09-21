@@ -57,7 +57,7 @@ header, main {
 footer, #contact {
    background-color: #000000;
 }
- nav h2 {
+ nav h2,legend {
    visibility:hidden;
  } 
 nav {
@@ -189,11 +189,13 @@ h1 {
  input{
    width: 100%;
    padding-bottom: 5px;
+  
  }
 
  label{
    margin-bottom:6px;
    display:block;
+   text-align:left ;
  }
  
  
