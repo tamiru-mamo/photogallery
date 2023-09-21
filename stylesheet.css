@@ -57,6 +57,9 @@ header, main {
 footer, #contact {
    background-color: #000000;
 }
+ nav h2 {
+   visibility:hidden;
+ } 
 nav {
    padding-bottom: 25px;
 }
@@ -131,16 +134,17 @@ figure{
    display:flex;
    position: relative;
    border: 5px solid white;
-   align-items: center;
+   align-items: center
    
  
  }
  img{
-   background-color: #ffffff; 
-   width:  100%;
-   height: 100%;
-   vertical-align: middle; 
-  object-fit: cover; 
+      background-color: #ffffff; 
+      width:  100%;
+      height: 100%;
+      vertical-align: middle; 
+      object-fit: cover; 
+     
  
  }
  .text{
